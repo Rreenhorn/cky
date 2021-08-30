@@ -1,2 +1,0 @@
-# cky
-A normal warehouse
